@@ -1,3 +1,4 @@
 * text=auto !eol
 /apertium-ita-ita.ita-ita.dix -text
 /apertium-ita.ita.dix -text
+/test-ita.dix -text
